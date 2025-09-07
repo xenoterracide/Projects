@@ -1,0 +1,15 @@
+[submodule "gradle-semver"]
+	path = gradle-semver
+	url = https://github.com/xenoterracide/gradle-semver.git
+[submodule "gradle-version-catalog-spring"]
+	path = gradle-version-catalog-spring
+	url = https://github.com/xenoterracide/gradle-version-catalog-spring.git
+[submodule "gradle-convention"]
+	path = gradle-convention
+	url = https://github.com/xenoterracide/gradle-convention.git
+[submodule "java-commons"]
+	path = java-commons
+	url = https://github.com/xenoterracide/java-commons.git
+[submodule "spring-app-commons"]
+	path = spring-app-commons
+	url = https://github.com/xenoterracide/spring-app-commons.git
