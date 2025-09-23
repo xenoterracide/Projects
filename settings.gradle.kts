@@ -7,6 +7,8 @@ pluginManagement {
   repositories {
     gradlePluginPortal()
   }
+  includeBuild("gradle-semver")
+  includeBuild("gradle-convention")
 }
 
 plugins {
@@ -39,5 +41,5 @@ dependencyResolutionManagement {
 }
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
-
-includeBuild("gradle-semver")
+includeBuild("java-commons")
+includeBuild("spring-app-commons")
