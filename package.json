@@ -1,7 +1,7 @@
 {
   "name": "projects",
   "private": true,
-  "packageManager": "yarn@4.10.3",
+  "packageManager": "yarn@4.17.0",
   "devDependencies": {
     "@prettier/plugin-xml": "^3.4.2",
     "git-conventional-commits": "^2.8.0",
